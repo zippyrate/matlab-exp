@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.stanford.epad.plugins.tedseg</groupId>
+  <artifactId>regiongrow_java</artifactId>
+  <versioning>
+    <release>R2010b</release>
+    <versions>
+      <version>R2010b</version>
+    </versions>
+    <lastUpdated>20140129182307</lastUpdated>
+  </versioning>
+</metadata>
